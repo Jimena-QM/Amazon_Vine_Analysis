@@ -28,8 +28,9 @@ The second step, analyzing for positive bias, was performed using Pandas and Jup
     - 54.47% of non-Vine reviews were 5 stars
 
 ## Summary
-    Based on the above analysis there seems to be no bias for reviews of Vine members. The percentage of 5 star reviews by Vine members is 38.24% vs 54.47% of non-members. It seems that Vine members that evaluated pet products have no bias when rating a product. 
-    Since the percentage of Vine reviews for pet products is only 0.45%, an additional analysis I would perform is to use all the data sets from Amazon vine and validate if the same tendency for pet products is present in all of them. Also, analyzing the distribution of all star-levels across Vine and non-Vine reviews will give us a better understanding if there may be negative bias of Vine members. 
+Based on the above analysis there seems to be no bias for reviews of Vine members. The percentage of 5 star reviews by Vine members is 38.24% vs 54.47% of non-members. It seems that Vine members that evaluated pet products have no positive bias when rating a product. 
+
+Since the percentage of Vine reviews for pet products is only 0.45%, an additional analysis I would perform is to use all the data sets from Amazon vine and validate if the same tendency for pet products is present in all of them. Also, analyzing the distribution of all star-levels across Vine and non-Vine reviews will give us a better understanding if there may be negative bias of Vine members. 
 
 
 
